@@ -44,7 +44,7 @@ exclude:
     "node_modules",
     "vendor",
     "_bin",
-    "sw-precache-config.js",
+    "workbox-config.js",
   ]
 
 markdown: kramdown

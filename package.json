@@ -14,7 +14,6 @@
     "fg-loadcss": "^3.1.0",
     "OptimizedWebfontLoading": "gist:2a65d6a37675412a2463",
     "picturefill": "^3.0.3",
-    "sw-precache": "^5.2.1",
     "woff2-feature-test": "^1.0.3"
   },
   "devDependencies": {
@@ -24,6 +23,7 @@
     "spritesh": "^1.2.1",
     "standard": "^16.0.3",
     "svgo": "^2.2.1",
-    "uglify-js": "^3.13.0"
+    "uglify-js": "^3.13.0",
+    "workbox-cli": "^6.1.1"
   }
 }
